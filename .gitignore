@@ -3,3 +3,4 @@ passwords.txt
 *.log
 !important.log
 /node
+about.html
